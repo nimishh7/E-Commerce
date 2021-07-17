@@ -1,1 +1,1 @@
-# E-Commerce
+An E-Commerce website for Small, Mid-scale businesses.
