@@ -28,3 +28,8 @@ Why not 🌟star the github [repo](https://github.com/nimishh7/E-Commerce) and s
 Thanks!
 
 [Nimish](https://github.com/nimishh7)
+=======
+An E-Commerce website for Small, Mid-scale businesses.<br><br>
+Technologies used:<br>
+HTML, CSS, Bootstrap, MySQL, PHP
+
